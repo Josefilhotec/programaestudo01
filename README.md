@@ -1,4 +1,4 @@
-# programaestudo01.
+# program_estudo_01
 # Programa ler o nome, idade e sexo de 4 pessoas.
 # no final do programa mostra:
 # A média de idade do grupo.
